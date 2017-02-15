@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <seed>
-            <Filename>lineage_seed-ota-9f4b800ed4</Filename>
+            <Filename>seed_lineage_n_Nightly_10befcb8a0_ONE-TEAM.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Latest ResurrectionRemix build"
-                description="lineage_seed-ota-9f4b800ed4.zip">http://downloads.one-teams.com/dl/seed/rr_n/lineage_seed-ota-9f4b800ed4.zip</RomUrl>
+                description="seed_lineage_n_Nightly_10befcb8a0_ONE-TEAM.zip">seed_lineage_n_Nightly_10befcb8a0_ONE-TEAM.zip</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
