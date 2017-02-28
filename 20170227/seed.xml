@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+    <Stable>
+        <seed>
+            <Filename>RR-N-v5.8.2-2017028-seed-Weekly.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="Latest ResurrectionRemix build"
+                description="RR-N-v5.8.2-20170228-seed-Weekly.zip">http://downloads.one-teams.com/dl/seed/rr_n/RR-N-v5.8.2-20170228-seed-Weekly.zip</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View Changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/nougat/CHANGELOG.mkdn</ChangelogUrl>
+           <OpenGappsUrl
+            	id="open_gapps"
+            	title="Open Gapps"
+            	description="Download Open latest GApps">http://opengapps.org</OpenGappsUrl>
+		</seed>
+	</Stable>
+</SlimOTA>
