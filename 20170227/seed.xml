@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <seed>
-            <Filename>RR-N-v5.8.2-2017028-seed-Weekly.zip</Filename>
+            <Filename>RR-N-v5.8.3-20170503-seed-Weekly.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Latest ResurrectionRemix build"
-                description="RR-N-v5.8.2-20170228-seed-Weekly.zip">http://downloads.one-teams.com/dl/seed/rr_n/RR-N-v5.8.2-20170228-seed-Weekly.zip</RomUrl>
+                description="RR-N-v5.8.3-20170503-seed-Weekly.zip">http://qc4.androidfilehost.com/dl/wp0k_YEaaZsY8DSXm8NI2A/1494142286/745425885120729236/RR-N-v5.8.3-20170503-seed-Weekly.zip</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
